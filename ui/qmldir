@@ -17,6 +17,13 @@ TAppRow 1.0 TAppRow.qml
 TTabHeader 1.0 TTabHeader.qml
 TNav 1.0 TNav.qml
 TSpaceRow 1.0 TSpaceRow.qml
+PageDay 1.0 PageDay.qml
+PageWeek 1.0 PageWeek.qml
+PageMap 1.0 PageMap.qml
+PageApps 1.0 PageApps.qml
+PageApp 1.0 PageApp.qml
+PageFocus 1.0 PageFocus.qml
+PageSettings 1.0 PageSettings.qml
 TPageSlot 1.0 TPageSlot.qml
 TAppIcon 1.0 TAppIcon.qml
 singleton Str 1.0 Str.qml
