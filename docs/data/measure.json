@@ -1,0 +1,40 @@
+{
+ "rows": [
+  {
+   "cpu": 0.0,
+   "rss_mb": 163.46484375,
+   "wakeups": 0.0,
+   "threads": 13,
+   "name": "empty Quickshell (one window)"
+  },
+  {
+   "cpu": 0.08888830491437864,
+   "rss_mb": 203.41796875,
+   "wakeups": 0.5333298294862717,
+   "threads": 14,
+   "name": "Tally, card closed"
+  },
+  {
+   "cpu": 0.08888864116973219,
+   "rss_mb": 257.28125,
+   "wakeups": 0.8444420911124552,
+   "threads": 20,
+   "name": "Tally, card open (Day)"
+  },
+  {
+   "cpu": 0.26666493169712424,
+   "rss_mb": 214.375,
+   "wakeups": 22.08874517557846,
+   "threads": 19,
+   "name": "Tally, card open + focus session"
+  }
+ ],
+ "export": {
+  "name": "peak while a board report is made",
+  "peak_mb": 287.41796875,
+  "extra_mb": 92.67578125,
+  "after_mb": 253.84765625,
+  "made": true
+ },
+ "seconds": 45
+}
