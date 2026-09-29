@@ -2,4 +2,22 @@ singleton TallyStore 1.0 TallyStore.qml
 singleton TallyTheme 1.0 TallyTheme.qml
 singleton TallyTracker 1.0 TallyTracker.qml
 
+TText 1.0 TText.qml
+TLabel 1.0 TLabel.qml
+TBig 1.0 TBig.qml
+TIcon 1.0 TIcon.qml
+TIconButton 1.0 TIconButton.qml
+TSwitch 1.0 TSwitch.qml
+TSegmented 1.0 TSegmented.qml
+TStepper 1.0 TStepper.qml
+TRuler 1.0 TRuler.qml
+TStatCell 1.0 TStatCell.qml
+TDuration 1.0 TDuration.qml
+TAppRow 1.0 TAppRow.qml
+TTabHeader 1.0 TTabHeader.qml
+TNav 1.0 TNav.qml
+TSpaceRow 1.0 TSpaceRow.qml
+TPageSlot 1.0 TPageSlot.qml
+TAppIcon 1.0 TAppIcon.qml
 singleton Str 1.0 Str.qml
+TMark 1.0 TMark.qml
