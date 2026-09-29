@@ -28,3 +28,15 @@ TPageSlot 1.0 TPageSlot.qml
 TAppIcon 1.0 TAppIcon.qml
 singleton Str 1.0 Str.qml
 TMark 1.0 TMark.qml
+TReportPalette 1.0 TReportPalette.qml
+TReportModel 1.0 TReportModel.qml
+TReportChart 1.0 TReportChart.qml
+TReportApps 1.0 TReportApps.qml
+TReportHours 1.0 TReportHours.qml
+TReportTrio 1.0 TReportTrio.qml
+ReportPage 1.0 ReportPage.qml
+ReportCard 1.0 ReportCard.qml
+ReportBoard 1.0 ReportBoard.qml
+singleton TallyExport 1.0 TallyExport.qml
+TallyReportJob 1.0 TallyReportJob.qml
+PageExport 1.0 PageExport.qml
