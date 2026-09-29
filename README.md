@@ -15,6 +15,10 @@ Screen time for Quickshell on Hyprland: which apps you focus, for how long, agai
 
 <img src="docs/screenshots/hero.png" width="880" alt="The Day, Week and Map pages of the card">
 
+<img src="docs/screenshots/desktop.webp" width="880" alt="Tally on a desktop: the pill in the bar and the card open under it">
+
+<sub>The whole screen, uncropped: the pill sits in the bar, the card hangs under it. (Invented data.)</sub>
+
 </div>
 
 ---

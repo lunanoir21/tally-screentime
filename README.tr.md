@@ -11,6 +11,10 @@ Hyprland üzerinde Quickshell için ekran süresi: hangi uygulamaya ne kadar oda
 
 <img src="docs/screenshots/hero.png" width="880" alt="Kartın Gün, Hafta ve Harita sayfaları">
 
+<img src="docs/screenshots/desktop.webp" width="880" alt="Masaüstünde Tally: bar'daki pill ve altında açık kart">
+
+<sub>Ekranın tamamı, kesilmemiş: pill bar'da, kart altında sarkıyor. (Uydurma veri.)</sub>
+
 </div>
 
 ---
