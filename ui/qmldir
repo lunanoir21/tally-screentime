@@ -2,6 +2,11 @@ singleton TallyStore 1.0 TallyStore.qml
 singleton TallyTheme 1.0 TallyTheme.qml
 singleton TallyTracker 1.0 TallyTracker.qml
 
+TallyHost 1.0 TallyHost.qml
+TallyPill 1.0 TallyPill.qml
+TallyPanel 1.0 TallyPanel.qml
+TallyThemePicker 1.0 TallyThemePicker.qml
+TallyDim 1.0 TallyDim.qml
 TText 1.0 TText.qml
 TLabel 1.0 TLabel.qml
 TBig 1.0 TBig.qml
@@ -27,6 +32,7 @@ PageSettings 1.0 PageSettings.qml
 TPageSlot 1.0 TPageSlot.qml
 TAppIcon 1.0 TAppIcon.qml
 singleton Str 1.0 Str.qml
+TallyOnboarding 1.0 TallyOnboarding.qml
 TMark 1.0 TMark.qml
 TReportPalette 1.0 TReportPalette.qml
 TReportModel 1.0 TReportModel.qml
