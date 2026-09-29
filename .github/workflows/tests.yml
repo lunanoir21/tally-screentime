@@ -1,0 +1,24 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Qt 6 test tools, Pillow, Node and poppler
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            qt6-declarative-dev-tools qml6-module-qttest qml6-module-qtquick \
+            qml6-module-qtqml-workerscript qml6-module-qtquick-window \
+            python3-pil nodejs poppler-utils
+
+      - name: Run the tests
+        env:
+          QT_QPA_PLATFORM: offscreen
+        run: sh tests/run.sh
