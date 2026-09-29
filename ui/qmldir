@@ -1,0 +1,5 @@
+singleton TallyStore 1.0 TallyStore.qml
+singleton TallyTheme 1.0 TallyTheme.qml
+singleton TallyTracker 1.0 TallyTracker.qml
+
+singleton Str 1.0 Str.qml
